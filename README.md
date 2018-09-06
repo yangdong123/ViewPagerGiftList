@@ -8,4 +8,4 @@ RecycleView和ViewPager 实现联动礼物列表
 
     3.填充数据集合
 
-
+![image](https://github.com/yangdong123/TestDemoProject/blob/master/app/src/main/res/anim/ezgif.com-video-to-gif.gif?raw=true)
